@@ -2,7 +2,7 @@
 #### 👦 ABOUT ME
 ### Assalamu'alaikum
 
-I'm **Nuzul** aka `Nuzul Haq Ahmad A`. I'm a **software Engineer** based in Garut | Tasikmalaya, INDONESIA. I always try to compete with the world, which makes me a better person than I am yesterday
+I'm **Nuzul** aka `Nuzul Haq Ahmad A`. I'm a **Software Engineer** based in Garut | Tasikmalaya, INDONESIA. I always try to compete with the world, which makes me a better person than I am yesterday
 
 ---
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
