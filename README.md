@@ -2,7 +2,7 @@
 #### 👦 ABOUT ME
 ### Assalamu'alaikum
 
-I'm **Nuzul** aka `Nuzul Haq Ahmad A`. I'm a **Full Stack Developer** based in Tasikmalaya, INDONESIA. I always try to compete with the world, which makes me a better person than I am yesterday
+I'm **Nuzul** aka `Nuzul Haq Ahmad A`. I'm a **software Engineer** based in Garut | Tasikmalaya, INDONESIA. I always try to compete with the world, which makes me a better person than I am yesterday
 
 ---
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
@@ -21,7 +21,6 @@ I'm **Nuzul** aka `Nuzul Haq Ahmad A`. I'm a **Full Stack Developer** based in T
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 </p>
 
