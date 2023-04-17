@@ -2,7 +2,7 @@
 #### 👦 ABOUT ME
 ### Assalamu'alaikum
 
-I'm **Nuzul** aka `Nuzul Haq Ahmad A`. I'm a **Software Engineer** based in Garut | Tasikmalaya, INDONESIA. I always try to compete with the world, which makes me a better person than I am yesterday
+I'm **Nuzul** aka `Nuzul Haq Ahmad Alramdani`. I'm a **Software Engineer** based in Garut | Tasikmalaya, INDONESIA. I always try to compete with the world, which makes me a better person than I am yesterday
 
 ---
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
@@ -26,11 +26,11 @@ I'm **Nuzul** aka `Nuzul Haq Ahmad A`. I'm a **Software Engineer** based in Garu
 
 ---
 
-#### 🎯 GOALS IN 2021:
+#### 🎯 GOALS IN 2023:
 
-- 
-- 
-- 
+- Learn C#
+- Learn .Net
+- Learn Visual Studio
 
 ---
 
@@ -51,8 +51,6 @@ I'm **Nuzul** aka `Nuzul Haq Ahmad A`. I'm a **Software Engineer** based in Garu
 #### 📈 MY GITHUB STATS
 
 <img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=NuzulPrilude&show_icons=true&theme=radical" />
-
-<img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=NuzulPrilude&show_icons=true&theme=radical" />
 
 
 <!--END_SECTION>
