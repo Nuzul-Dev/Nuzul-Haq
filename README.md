@@ -50,7 +50,7 @@ I'm **Nuzul** aka `Nuzul Haq Ahmad Alramdani`. I'm a **Software Engineer** based
 
 #### 📈 MY GITHUB STATS
 
-<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=NuzulPrilude&show_icons=true&theme=radical" />
+<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=Nuzul-Dev&show_icons=true&theme=radical" />
 
 
 <!--END_SECTION>
